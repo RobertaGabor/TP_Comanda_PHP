@@ -1,0 +1,13 @@
+1,PrimerUsuario,$2y$10$7IJcredIZlU9RkmnfRR/0ue3fVvlvEYyK2zN6wd2vrxSkL1Rf3MSe,primero,usuario,mozo,Activo,"2021-11-09 00:00:00",,"2021-11-09 00:00:00"
+2,SegundoUsuario,$2y$10$xgYLXLLYzxJItSsQcgkmCOPI/NfX7Il5Lbleq044EneUkiYB0fJOK,segundo,usuario,mozo,Activo,"2021-11-09 00:00:00","2021-11-30 00:00:00",
+3,TercerUsuario,$2y$10$CwTykpBywwhP2wJ1cHnNcuQQxVH0bt3zKYYhLql40B/VJmtt8NbFS,tercer,usuario,mozo,Activo,"2021-11-11 00:00:00","2021-11-12 00:00:00",
+5,CuartoUsuario,$2y$10$g1tI1FZUPm5TZ6x17qmq2efUdB0wnvrYpYwvVFusmc5psAwlGyXHC,cuarto,usuario,socio,Activo,"2021-11-12 00:00:00",,
+6,quintoUsuario,$2y$10$LarAEcTMAYBCLd.cbtW2Yu.08l07W0hap4BZBgK3dv/jzj9bIvoW6,quinto,usuario,socio,Activo,"2021-11-12 00:00:00",,
+7,sextoUsuario,$2y$10$3maze/NlneQ0bYd5OdBcOuADjBzjZpAfZbf0KU3aHGl5gLOVfByXy,sexto,usuario,mozo,Activo,"2021-11-12 00:00:00","2021-11-30 00:00:00",
+8,septimoUsuario,$2y$10$9BGo4mnpKJYHUSlsjK8.eOknxszMszQVaeWJhB6x0xkJ7BrqJFCcy,sept,coca,socio,Activo,"2021-11-14 00:00:00",,
+9,octavoUsuario,$2y$10$RBCx6kK0RhJzdX0fBXKo5.T1UseiHMhSHB3rPjFOi7ujRm6IMyWS.,oct,coca,socio,Activo,"2021-11-20 00:00:00",,
+10,novenoUsuario,$2y$10$WW8.hwrLjXquB8ziYlyDkul4VI0VbcAXOiHqp9hq9Sgzxww.fjMhu,nov,dsed,bartender,Activo,"2021-11-29 00:00:00",,"2021-11-30 00:00:00"
+11,novenoUsuario,$2y$10$1YdknRCnn/N2sWTiKBoAA.ipEMS12Gjd6zOu/sWj3j1tsoDgKmEhG,nov,dsed,bartender,Activo,"2021-11-29 00:00:00",,"2021-11-30 00:00:00"
+12,novenoUsuario,$2y$10$5SbUheEJyHMxlN.7t4IDy.l4rCGgoZg45M55HT5zZI5b1nltB27a2,nov,dsed,bartender,Activo,"2021-11-29 00:00:00",,"2021-11-30 00:00:00"
+13,adminS,$2y$10$2phXYowvnmDKlbyQIfWpiuMVtUZ5ZJ9kLd/PChmQsmWs.5qzQ7eWO,ad,min,socio,Activo,"2021-11-30 00:00:00",,
+14,adminS,$2y$10$GjUN2K6xXGhVIgvhlHSo5u3ieUO3MODBgU6qFD9T11ujFYXc33AYe,ad,min,socio,Activo,"2021-11-30 00:00:00",,
